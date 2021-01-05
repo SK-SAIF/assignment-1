@@ -1,0 +1,103 @@
+.section-1{
+    width: 49%;
+    border: 1px solid red;
+    height: 1400px;
+    float: right;
+    
+    
+
+
+}
+.section-2{
+    width: 49%;
+    border: 1px solid red; 
+    height: 1400px;  
+    
+}
+.section-3{
+
+    
+   
+    
+
+    text-align: center;
+   
+    
+
+}
+#nameonly{
+    font-weight: 900;
+    color: salmon;
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Signika', sans-serif;
+
+}
+.firstline{
+    font-weight: 900;
+    color: black;
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Signika', sans-serif;
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Signika', sans-serif;
+font-family: 'Tajawal', sans-serif;
+}
+img{
+    width: 100%;
+
+}
+h4{
+    background-color: salmon;
+    border: 1px solid black;
+        
+    color: seashell;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Signika', sans-serif;
+font-family: 'Tajawal', sans-serif;
+    border-radius: 5px;
+}
+.top{
+    border: 1px solid blue;
+    padding: 100px 10px 250px 150px;
+}
+.about{
+    border: 1px solid black;
+}
+.webname{
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.lol{
+    color: gray;
+    font-size: 15px;
+}
+.project{
+    box-shadow: 10px 10px 40px grey;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 20%;
+    margin: 5% 1% 5% 1%;
+    padding: 25px;
+    
+
+    float: left;
+}
+.link{
+    text-decoration: none;
+}
+.sp{
+    border: 1px solid red;
+    width: 86%;
+    height: 600px;
+    padding-left:215px;
+    background-color: rgb(241, 241, 238);
+}
