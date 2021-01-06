@@ -1,23 +1,30 @@
+.section-0{
+    border: 1px solid rosybrown;
+    height: 150px;
+    padding-right: 100px;
+    padding-top: 50px;
+    background-color: rosybrown;
+}
 .section-1{
     width: 49%;
-    border: 1px solid red;
+    
     height: 1400px;
     float: right;
 }
 .section-2{
     width: 49%;
-    border: 1px solid red; 
+    
     height: 1400px;  
 }
 .section-3{
     padding-left: 250px ;
     margin-bottom: 100px;
     margin-top: 250px;
-    border: 1px solid blue;
+    
 }
 .section-4{
     height: 700px;
-    border: 1px solid pink;
+    
     
     padding: 50px 280px 100px 280px;
     background-image: url("images/spc.png");
@@ -56,7 +63,7 @@ img{
 }
 h4{
     background-color: salmon;
-    border: 1px solid black;
+    
 
     width: 110px;
     height: 25px;
@@ -69,17 +76,17 @@ h4{
     font-size: 15px;
     font-weight: bold;
     font-family: 'Bebas Neue', cursive;
-font-family: 'Signika', sans-serif;
-font-family: 'Tajawal', sans-serif;
+    font-family: 'Signika', sans-serif;
+    font-family: 'Tajawal', sans-serif;
     border-radius: 5px;
 }
 .top{
-    border: 1px solid blue;
+    
     padding: 100px 10px 250px 150px;
    
 }
 .about{
-    border: 1px solid black;
+    
     padding-left: 50px;
     padding-right: 50px;
     margin-top: 50px;
@@ -95,7 +102,7 @@ font-family: 'Tajawal', sans-serif;
 }
 .project{
     box-shadow: 10px 10px 40px grey;
-    border: 1px solid black;
+    
     border-radius: 15px;
     width: 20%;
     margin: 5% 1% 5% 1%;
@@ -107,11 +114,11 @@ font-family: 'Tajawal', sans-serif;
 .link{
     text-decoration: none;
 }
-.sp{
-    border: 1px solid red;
-    margin-top: 24px;
+.special{
+    
+    margin-top: 28px;
     width: 86%;
-    height: 900px;
+    height: 950px;
     padding-left:215px;
     background-color: rgb(241, 241, 238);
 }
@@ -119,7 +126,7 @@ font-family: 'Tajawal', sans-serif;
     color: crimson;
 }
 .word-inside-image{
-    border: 1px solid black;
+    
     margin-top: 350px;
     padding-left: 110px;
     margin-bottom: 100px;
@@ -136,7 +143,7 @@ font-family: 'Tajawal', sans-serif;
 
 #downloadbutton{
     background-color: salmon;
-    border: 1px solid black;
+    
 
     width: 200px;
     height: 30px;
@@ -149,8 +156,8 @@ font-family: 'Tajawal', sans-serif;
     font-size: 20px;
     font-weight: bold;
     font-family: 'Bebas Neue', cursive;
-font-family: 'Signika', sans-serif;
-font-family: 'Tajawal', sans-serif;
+    font-family: 'Signika', sans-serif;
+    font-family: 'Tajawal', sans-serif;
     border-radius: 5px;
     
 }
@@ -158,7 +165,7 @@ font-family: 'Tajawal', sans-serif;
 
 .chatbox{
     background-color: salmon;
-    border: 1px solid yellow;
+    
 
     
     margin-left: 250px;
@@ -184,10 +191,10 @@ font-family: 'Tajawal', sans-serif;
 
 }
 .div-1{
-    border: 1px solid violet;
+   
 }
 .div-2{
-    border: 1px solid green;
+    
     text-align: center;
 }
 #webstyle{
@@ -214,4 +221,38 @@ font-family: 'Tajawal', sans-serif;
     height: 80px;
     width: 300px;
     margin-left: 350px;
+}
+.small-button{
+    
+    background-color: white; /* Green */
+    border: 1px solid white;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.positionoftopbuttons{
+    float: right;
+
+}
+.addedbyme{
+    border: 0.5px solid white;
+    
+    background-image: url("images/dogback.jpg");
+    height: 650px;
+
+}
+#quotes{
+    font-size: 30px;
+    color: saddlebrown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 250px;
+
 }
