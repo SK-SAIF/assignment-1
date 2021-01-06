@@ -3,26 +3,27 @@
     border: 1px solid red;
     height: 1400px;
     float: right;
-    
-    
-
-
 }
 .section-2{
     width: 49%;
     border: 1px solid red; 
     height: 1400px;  
-    
 }
 .section-3{
-
+    padding-left: 250px ;
+    margin-bottom: 100px;
+    margin-top: 250px;
+    border: 1px solid blue;
+}
+.section-4{
+    height: 700px;
+    border: 1px solid pink;
     
-   
-    
-
-    text-align: center;
-   
-    
+    padding: 50px 280px 100px 280px;
+    background-image: url("images/spc.png");
+    background-size: 800px 200px;
+    background-repeat: no-repeat;
+    background-position: center center;
 
 }
 #nameonly{
@@ -51,13 +52,21 @@ font-family: 'Tajawal', sans-serif;
 img{
     width: 100%;
 
+
 }
 h4{
     background-color: salmon;
     border: 1px solid black;
-        
+
+    width: 110px;
+    height: 25px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+   
     color: seashell;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     font-family: 'Bebas Neue', cursive;
 font-family: 'Signika', sans-serif;
@@ -67,9 +76,13 @@ font-family: 'Tajawal', sans-serif;
 .top{
     border: 1px solid blue;
     padding: 100px 10px 250px 150px;
+   
 }
 .about{
     border: 1px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
 }
 .webname{
     color: black;
@@ -96,8 +109,109 @@ font-family: 'Tajawal', sans-serif;
 }
 .sp{
     border: 1px solid red;
+    margin-top: 24px;
     width: 86%;
-    height: 600px;
+    height: 900px;
     padding-left:215px;
     background-color: rgb(241, 241, 238);
+}
+.colorstyle{
+    color: crimson;
+}
+.word-inside-image{
+    border: 1px solid black;
+    margin-top: 350px;
+    padding-left: 110px;
+    margin-bottom: 100px;
+
+    font-size: 50px;
+    color: white;
+    font-weight: 900;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    width: 50%;
+    
+}
+
+#downloadbutton{
+    background-color: salmon;
+    border: 1px solid black;
+
+    width: 200px;
+    height: 30px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    cursor: pointer;
+   
+    color: seashell;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Signika', sans-serif;
+font-family: 'Tajawal', sans-serif;
+    border-radius: 5px;
+    
+}
+
+
+.chatbox{
+    background-color: salmon;
+    border: 1px solid yellow;
+
+    
+    margin-left: 250px;
+    margin-top: 100px;
+
+
+    width: 150px;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+   
+    color: seashell;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Signika', sans-serif;
+font-family: 'Tajawal', sans-serif;
+    border-radius: 5px;
+
+
+}
+.div-1{
+    border: 1px solid violet;
+}
+.div-2{
+    border: 1px solid green;
+    text-align: center;
+}
+#webstyle{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    font-family: monospace;
+
+}
+#stayconnected{
+    color: darkcyan;
+    font-weight: 300;
+    font-size: 25px;
+}
+.icon{
+    
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin: 15px;
+}
+.all-icons{
+    
+    height: 80px;
+    width: 300px;
+    margin-left: 350px;
 }
